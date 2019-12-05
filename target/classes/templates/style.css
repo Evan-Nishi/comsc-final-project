@@ -1,0 +1,26 @@
+html{
+    font-family: 'Tomorrow', sans-serif;
+    scroll-behavior: smooth;
+}
+.container{
+    margin: auto;
+    text-align: center;
+    display: flex;
+
+}
+
+.button{
+    border-radius: 20px;
+    background: purple;
+    outline: 3px;
+    outline-color: black;
+    color: white;
+}
+
+#header{
+    background-color:gainsboro;
+    justify-content: flex-start;
+    padding: 20px;
+    border-bottom: 5px;
+    border-bottom-color: black;
+}
